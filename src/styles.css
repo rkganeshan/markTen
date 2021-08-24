@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.t {
+  font-size: 50px;
+}
+.t2 {
+  font-size: 25px;
+}
+.form-control {
+  border-radius: 30px;
+  border-color: #51e1ed;
+  width: 25%;
+  position: relative;
+  margin: 0 auto;
+}
